@@ -8,8 +8,9 @@
 </h3>
 
 
-Full Stack Web Developer Junior
-Desarrollador Web Full Stack Junior con 21 meses de experiencia sólida en el ciclo de vida completo de desarrollo (SDLC) y arquitectura de microservicios. Especialista en la construcción de soluciones backend escalables bajo los ecosistemas de Java (Spring Boot), .NET y NestJS, integrando interfaces modernas en Angular y React. Enfocado en la excelencia técnica mediante la aplicación estricta de principios SOLID, Clean Code y Patrones de Diseño en entornos ágiles bajo metodología Scrum. Dominio en bases de datos SQL/NoSQL (PostgreSQL, MongoDB) y control de versiones con Git.
+Backend Developer Junior
+
+Desarrollador Backend Junior con 21 meses de experiencia sólida en el ciclo de vida completo de desarrollo (SDLC) y arquitectura de microservicios. Especialista en la construcción de soluciones backend escalables bajo los ecosistemas de Java (Spring Boot), C# (.NET) y TypeScript (NestJS). Enfocado en la excelencia técnica mediante la aplicación estricta de principios SOLID, Clean Code y Patrones de Diseño en entornos ágiles bajo metodología Scrum. Dominio en bases de datos SQL/NoSQL (PostgreSQL, MongoDB) y control de versiones con Git.
 
 <hr>
 
