@@ -1,9 +1,18 @@
-# Juan Felipe Quintero Gutierrez  |  Software Developer! ⌨️
+<h1 align="center">Hi 👋, I'm Juan Quintero</h1>
+            
+<h2 align="center">A software analyst and developer from Colombia </h2>
 
-## Perfil
-Técnico Laboral como Asistente en Desarrollo de Software con 6 meses de experiencia en Desarrollo Web Full Stack, desempeñando funciones tales como desarrollo de paginas web, investigacion de frameworks y librerias, y trabajo en base a scrum. Cuento con conocimientos en el editor de codigo ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white), el entorno de desarrollo ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white); lenguajes de programacion como ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white), ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white), ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E), ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white), ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white); administracion en bases de datos con  ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white); y competencias laborales con frameworks y librerias como DevExtreme, ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white), ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white), ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white), y manejadores de versiones como ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) y ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220).
+<h3 align="center">
+            <a align="center" href='https://www.linkedin.com/in/jfelipeq14/' target="_blank">Linkedin ⚙</a>
+            <a align="center" href='https://www.youtube.com/@goleadordev' target="_blank">Youtube 🛠</a>
+</h3>
 
-## Experiencia Laboral
-Ekisa SAS - Septiembre 26 de 2022 a Marzo 26 de 2023 - Practicas Laborales
 
-Alegria Pets - 2018 a 2022 - Diseño y desarrollo de productos (pañoletas)
+Full Stack Web Developer Junior
+Desarrollador Web Full Stack Junior con 21 meses de experiencia sólida en el ciclo de vida completo de desarrollo (SDLC) y arquitectura de microservicios. Especialista en la construcción de soluciones backend escalables bajo los ecosistemas de Java (Spring Boot), .NET y NestJS, integrando interfaces modernas en Angular y React. Enfocado en la excelencia técnica mediante la aplicación estricta de principios SOLID, Clean Code y Patrones de Diseño en entornos ágiles bajo metodología Scrum. Dominio en bases de datos SQL/NoSQL (PostgreSQL, MongoDB) y control de versiones con Git.
+
+<hr>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=JuaneFe14&theme=transparent&border_radius=4&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=300&card_height=120&hide_total_contributions=true&hide_current_streak=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=JuaneFe14&theme=transparent&border_radius=4&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=225&card_height=120&hide_total_contributions=true&hide_longest_streak=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=JuaneFe14&theme=transparent&border_radius=4&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=300&card_height=120&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
