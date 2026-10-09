@@ -7,10 +7,10 @@
             <a align="center" href='https://www.youtube.com/@goleadordev' target="_blank">Youtube 🛠</a>
 </h3>
 
-
-Backend Developer Junior
-
-Desarrollador Backend Junior con 21 meses de experiencia sólida en el ciclo de vida completo de desarrollo (SDLC) y arquitectura de microservicios. Especialista en la construcción de soluciones backend escalables bajo los ecosistemas de Java (Spring Boot), C# (.NET) y TypeScript (NestJS). Enfocado en la excelencia técnica mediante la aplicación estricta de principios SOLID, Clean Code y Patrones de Diseño en entornos ágiles bajo metodología Scrum. Dominio en bases de datos SQL/NoSQL (PostgreSQL, MongoDB) y control de versiones con Git.
+Backend Developer con más de 20 meses de experiencia, 15 de ellos en Globant, migrando servicios Java 8/11/17 a Java 21 en arquitecturas de microservicios distribuidas y reduciendo vulnerabilidades con SonarQube y Black Duck.
+Stack: Java, Spring Boot, .NET, PostgreSQL, MongoDB, Docker y CI/CD, con principios SOLID, Clean Code y metodología Scrum.
+Estudiante de Ingeniería de Software (7.º semestre).
+Inglés técnico de lectura (A2).
 
 <hr>
 
